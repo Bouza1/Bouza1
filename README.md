@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh.
-- 👀 I’m interested in working on Open-Source projects, specifically with the aim of educating young children to code.
+- 👀 I’m interested in working on Open-Source projects. I'm very keen to work on applications with the aim of educating young children to code.
 - 🌱 I’m currently learning C, C++ as well as Ruby on Rails
 - 💞️ I’m looking to collaborate on Python, Tkinter, Kivy, React open-source projects.
 - 📫 How to reach me: Jbousfield92@outlook.com
