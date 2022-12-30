@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Josh.
-- 👀 I’m interested in working on Open-Source projects. I'm very keen to work on applications with the aim of educating young children to code.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python, Tkinter, Kivy, React open-source projects.
+- 👀 I’m interested in working on Open-Source projects.
+- 🌱 I’m currently learning Python & Java.
+- 💞️ I’m looking to collaborate on Python, Tkinter, Kivy, Java, J-Swift and React open-source projects.
 
 <!---
 Bouza1/Bouza1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
