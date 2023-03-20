@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Josh.
-- 🎓 I'm Currently Studying Software Engingeering at Bournemouth University.
-- 👀 I’m interested in working on Open-Source projects with a strong desrire for automation or "BOTS".
+- 👋 Hi, I’m B.
+- 🎓 Software Engingeering Student.
+- 👀 I’m interested in working on Open-Source projects with a strong desrire for automation, machine learning, and childrens education.
 - 💞️ I’m looking to collaborate on Python, Tkinter, Kivy, Java, J-Swift and React Open-Source projects.
 
 <!---
