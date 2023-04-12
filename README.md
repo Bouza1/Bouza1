@@ -1,4 +1,4 @@
-- 👋 Hi, I’m B.
+- 👋 Hi, I’m Josh.
 - 🎓 Software Engingeering Student.
 - 👀 I’m interested in working on Open-Source projects with a strong desrire for automation, machine learning and childrens education.
 - 💞️ I’m looking to collaborate on Python, Tkinter, Kivy, Java, J-Swift and React Open-Source projects.
