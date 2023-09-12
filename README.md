@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bouza1&theme=city_lights" alt="Language Card">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bouza1&theme=algolia" alt="Language Card">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bouza1&theme=algolia" alt="Stats Card">
 </div>
 
