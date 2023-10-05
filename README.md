@@ -4,11 +4,14 @@
 </div>
 
 ## Studying:
-- BSC(Hons) Software Engineering
+- BSc(Hons) Software Engineering - Undergrad
+- Machine Learning
+- System Design
 
-## [Projects:](https://bouza1.github.io/)
+## Projects:
 - [WSSCC Booking App](https://github.com/Bouza1/booking_app)
-- [Tech Speaking Website](https://github.com/Bouza1/Tech-Speaking-Website) & [Tech Speaking Dashboard](https://github.com/Bouza1/Tech-Speaking-Dashboard)
+- [Tech Speaking Website](https://github.com/Bouza1/Tech-Speaking-Website)
+- [Tech Speaking Dashboard](https://github.com/Bouza1/Tech-Speaking-Dashboard)
 - [Brikd](https://github.com/Bouza1/Brikd)
 
 
