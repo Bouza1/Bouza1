@@ -5,8 +5,10 @@
 
 ## Studying:
 - BSc(Hons) Software Engineering - Undergrad
-- Machine Learning
-- System Design
+  - Machine Learning
+  - System Design
+  - Application Development
+  - OOP
 
 ## Projects:
 - [WSSCC Booking App](https://github.com/Bouza1/booking_app)
