@@ -4,11 +4,11 @@
 </div>
 
 ## Studying:
-- BSc(Hons) Software Engineering - Undergrad
-  - Machine Learning
-  - System Design
-  - Application Development
-  - OOP
+- BSc(Hons) Software Engineering - Undergraduate
+- Machine Learning
+- System Design
+- Application Development
+- OOP
 
 ## Projects:
 - Tennis Court Booking System: [WSSCC Booking App](https://github.com/Bouza1/booking_app) 
