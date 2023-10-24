@@ -3,6 +3,12 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bouza1&theme=algolia" alt="Language Card">
 </div>
 
+## Projects:
+- Tennis Court Booking System: [WSSCC Booking App](https://github.com/Bouza1/booking_app) 
+- Brick Breaker Game: [Brikd](https://github.com/Bouza1/Brikd)
+- Technology News Blog: [Tech Speaking Website](https://github.com/Bouza1/Tech-Speaking-Website)
+- Testing + Content Manager: [Tech Speaking Dashboard](https://github.com/Bouza1/Tech-Speaking-Dashboard)
+
 ## Studying:
 - BSc(Hons) Software Engineering - Undergraduate
 - Machine Learning
@@ -10,16 +16,7 @@
 - Application Development
 - OOP
 
-## Projects:
-- Tennis Court Booking System: [WSSCC Booking App](https://github.com/Bouza1/booking_app) 
-- Brick Breaker Game: [Brikd](https://github.com/Bouza1/Brikd)
-- Technology News Blog: [Tech Speaking Website](https://github.com/Bouza1/Tech-Speaking-Website)
-- Testing + Content Manager: [Tech Speaking Dashboard](https://github.com/Bouza1/Tech-Speaking-Dashboard)
-
-
-
 ## Languages & Frameworks:
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
@@ -39,12 +36,13 @@
 ![SQLite3](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Currently Learning:
+### Currently Learning:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+### Hackathon Contributions:
 [![An image of @bouza1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bouza1)](https://holopin.io/@bouza1)
 
 <!---
