@@ -11,10 +11,10 @@
   - OOP
 
 ## Projects:
-- [WSSCC Booking App](https://github.com/Bouza1/booking_app) : Tennis Court Booking System
-- [Brikd](https://github.com/Bouza1/Brikd) : Brick Breaker Game 
-- [Tech Speaking Website](https://github.com/Bouza1/Tech-Speaking-Website) : Technology News Blog
-- [Tech Speaking Dashboard](https://github.com/Bouza1/Tech-Speaking-Dashboard) : Testing + Content Manager
+- Tennis Court Booking System: [WSSCC Booking App](https://github.com/Bouza1/booking_app) 
+- Brick Breaker Game: [Brikd](https://github.com/Bouza1/Brikd)
+- Technology News Blog: [Tech Speaking Website](https://github.com/Bouza1/Tech-Speaking-Website)
+- Testing + Content Manager: [Tech Speaking Dashboard](https://github.com/Bouza1/Tech-Speaking-Dashboard)
 
 
 
