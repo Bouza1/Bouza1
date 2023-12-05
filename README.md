@@ -4,7 +4,6 @@
 </div>
 
 ## Projects:
-- Tennis Court Booking System: [WSSCC Booking App](https://github.com/Bouza1/booking_app) 
 - Brick Breaker Game: [Brikd](https://github.com/Bouza1/Brikd)
 - Technology News Blog: [Tech Speaking Website](https://github.com/Bouza1/Tech-Speaking-Website)
 - Testing + Content Manager: [Tech Speaking Dashboard](https://github.com/Bouza1/Tech-Speaking-Dashboard)
