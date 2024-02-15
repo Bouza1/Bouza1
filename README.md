@@ -12,7 +12,7 @@
 - Testing + Content Manager: [Tech Speaking Dashboard](https://github.com/Bouza1/Tech-Speaking-Dashboard)
 
 ## Studying:
-- BSc(Hons) Software Engineering - Undergraduate
+BSc(Hons) Software Engineering - Undergraduate
 - Machine Learning
 - System Design
 - Application Development
