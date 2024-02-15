@@ -5,6 +5,8 @@
 </div>
 
 ## Projects:
+- Breast Cancer Diagnosis: [Machine Learning Classification](https://github.com/Bouza1/Brikd)
+- Serve Reserve: [Tennis Court Booking](https://github.com/Bouza1/Brikd)
 - Brick Breaker Game: [Brikd](https://github.com/Bouza1/Brikd)
 - Technology News Blog: [Tech Speaking Website](https://github.com/Bouza1/Tech-Speaking-Website)
 - Testing + Content Manager: [Tech Speaking Dashboard](https://github.com/Bouza1/Tech-Speaking-Dashboard)
