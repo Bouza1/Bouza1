@@ -16,7 +16,7 @@
 - Machine Learning
 - System Design
 - Application Development
-- Infastructure Startergy
+- Infastructure Strategy
 - Project Management
 
 ## Languages & Frameworks:
