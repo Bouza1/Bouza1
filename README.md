@@ -5,7 +5,7 @@
 </div>
 
 ## Projects:
-- ML Algorithms & Ciritcal Evaluation: [Breast Cancer Classification](https://github.com/Bouza1/Brikd)
+- Breast Cancer Classification: [ML Models & Critical Evaluation](https://github.com/Bouza1/Brikd)
 - Tennis Court Management System: [Serve Reserve](https://github.com/Bouza1/serve_reserve_final)
 - Brick Breaker Game: [Brikd](https://github.com/Bouza1/Brikd)
 - Technology News Blog: [Tech Speaking Website](https://github.com/Bouza1/Tech-Speaking-Website)
